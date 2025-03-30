@@ -1,8 +1,8 @@
 {
     "domain": "micropic_energy_meter",
     "name": "Micropic Energy Meter",
-    "version": "1.0.0",
-    "documentation": "https://github.com/tu-repositorio",
+    "version": "1.0.1",
+    "documentation": "https://https://github.com/nocturno66/MicroPIC-Energy-Meter-comp",
     "dependencies": ["mqtt"],
     "requirements": [],
     "codeowners": ["@Manolo"],
