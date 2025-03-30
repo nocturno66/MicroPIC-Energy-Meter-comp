@@ -1,6 +1,7 @@
 {
     "domain": "micropic_energy_meter",
     "name": "Micropic Energy Meter",
+    "category": "sensor",
     "codeowners": ["@Manolo"],
     "config_flow": true,
     "dependencies": ["mqtt"],
