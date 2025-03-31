@@ -1,17 +1,16 @@
 # MicroPIC Energy Meter
 
-Este componente personalizado para Home Assistant permite integrar datos de consumo energético provenientes del medidor **MicroPIC Energy Meter** vía MQTT.
+This custom component for Home Assistant allows you to integrate energy consumption data from the MicroPIC Energy Meter via MQTT.
 
 ## Características
 
-- Lectura de consumo instantáneo
-- Energía total acumulada
-- Potencia activa y tensión
-- Icono y logotipo personalizados
-- Configuración vía UI (`config_flow`)
+- Instantaneous consumption reading
+- Total accumulated energy
+- Active power and voltage
+- UI-based configuration (config_flow)
 
 ## Instalación manual
 
-1. Copia `micropic_energy_meter` dentro de `custom_components/` en tu instalación de Home Assistant.
-2. Reinicia Home Assistant.
-3. Agrega la integración desde la interfaz de usuario.
+1. Copy the micropic_energy_meter folder into the custom_components/ directory of your Home Assistant installation.
+2. Restart Home Assistant.
+3. Add the integration from the Home Assistant user interface.
