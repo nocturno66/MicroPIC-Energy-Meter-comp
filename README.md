@@ -1,6 +1,7 @@
 # MicroPIC Energy Meter
 
 **MicroPIC Energy Meter** is a custom integration for Home Assistant that allows you to monitor energy data from a Microchip PIC-based microcontroller connected via MQTT.
+https://www.micropic.es/micropic-energy-meter/
 
 ## Features
 
